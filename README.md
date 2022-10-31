@@ -13,7 +13,18 @@ You can help with adding components by creating a pull request.
 You can install the package via composer:
 
 ```bash
-composer require appstract/laravel-bootstrap-components
+{
+"repositories": [
+        {
+            "type": "vcs",
+            "no-api": true,
+            "url": "https://github.com/jonth93/laravel-bootstrap-components"
+        }
+    ],
+"require": {
+    "jonth93/laravel-bootstrap-components": "^1.0",
+    }
+}
 ```
 
 ## Usage
