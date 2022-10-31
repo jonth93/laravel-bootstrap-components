@@ -10,7 +10,7 @@ You can help with adding components by creating a pull request.
 
 ## Installation
 
-You can install the package via composer:
+You can install the package via updating your composer.json file
 
 ```bash
 {
