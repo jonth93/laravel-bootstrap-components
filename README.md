@@ -9,7 +9,7 @@ Easily use Bootstrap 4 components as Laravel components.
 You can help with adding components by creating a pull request.
 
 **This is a forked repo. I've updated the package PHP requirements to 7.1.3 and above. I'm currently using this package in Laravel version 8.83.25 without issue.
-The reason for this is that I'm still using this package in an application that would take a fair amount of work to write it out considering the original package has now been archived.**
+The reason for this is that I'm still using this package in an application that would take a fair amount of work to write it out, considering the original package has now been archived.**
 
 ## Installation
 
